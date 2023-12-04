@@ -1,0 +1,48 @@
+@font-face { font-family:Encabezado ; src: url(Rookworst.ttf);}@font-face{font-family: Subtitulo;src: url(QuietlyEndureDEMO.ttf);}@font-face{font-family:Cuerpo ;src:url(LuchitaPayolTecnica.ttf) ;}
+
+/*Hoja de estilo*/
+#logo{height: 80px;width: 80px;border-radius: 40px; text-align: right; border: solid 6px black;}
+
+body{background-image: url(foto.jpg);}
+h1 {
+      color: rgb(252, 138, 0);
+   font-size: 600%; 
+   text-align: center;
+    }
+#Parrafo_1 {
+    font-size: 300%;   color: black;
+}
+.Inicio{
+    background-color: blanchedalmond; font-family:Encabezado;; text-align: center; margin: 10px 20px; border: solid 20px black; border-radius: 50px;}
+
+article{
+    font-family: Subtitulo; font-size: 300%;text-align: center; background-color: blanchedalmond;border: solid 10px black;border-radius: 50px;margin: 0px 400px;}
+section{
+    font-family:Cuerpo ;font-size: 30px; text-align: center; font-weight: 100; }
+#imagen1{border-image: 10px;
+}
+
+#FormulaFaraday{
+    font-family: 'Franklin Gothic Medium';font-size: 150%; text-align: center;
+}
+.TVideo{
+    font-size: 125%; font-family: Impact;
+}
+#Enlacepagina1{
+     font-size: larger; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: left; color: aliceblue;
+}
+.Indice{
+    font-family: Encabezado; font-size: 50px; border: solid 5px black; background-color: blanchedalmond; color: black; text-align: center; border-radius: 25px; padding: 10px;
+}
+.SPag{ font-family: Encabezado; font-size: 50px; border: solid 5px black; background-color: blanchedalmond; color: black; text-align: center; border-radius: 25px; padding: 10px; float: right;
+}
+.APag{ font-family: Encabezado; font-size: 50px; border: solid 5px black; background-color: blanchedalmond; color: black; text-align: center; border-radius: 25px; padding: 10px; float: right;
+}
+
+ ul.horizontal li{  font-family: Encabezado; font-size: 50px; border: solid 5px black; background-color: blanchedalmond; color: rgb(0, 0, 0); text-align: center; border-radius: 25px; padding: 10px; ;
+ display:block;
+ float:right;
+ padding:0 10px;
+}
+#nav{ border: 10px solid rgb(39, 36, 36); padding: 10px; color: black;}
